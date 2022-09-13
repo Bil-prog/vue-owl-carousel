@@ -9,7 +9,7 @@
     <span v-show="showNext" :id="nextHandler">
       <slot name="next" />
     </span>
-  </div>
+  </div> 
 </template>
 <script>
 import 'owl.carousel/dist/assets/owl.carousel.css';
